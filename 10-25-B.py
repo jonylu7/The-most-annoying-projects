@@ -1,5 +1,4 @@
-#e = input("Emoji")
-e="🙀"
+e = input("Emoji")
 alphabet = list(input("Alphabet"))
 outarr=[]
 for i in alphabet:
